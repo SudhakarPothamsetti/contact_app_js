@@ -1,0 +1,27 @@
+.bg-div{
+    display: flex;
+    
+}
+
+.form-div{
+    height: 100vh;
+    width: 50vw;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-div{
+    height: 100vh;
+    width: 50vw;
+    background-color: yellow;
+}
+
+.user-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+    width: 200px;
+}
